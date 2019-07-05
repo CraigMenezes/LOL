@@ -1,0 +1,38 @@
+body{
+    margin: 0 !important;
+}
+.first-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.main-feed {
+    max-width: 930px;
+
+    margin: 0 auto;
+    
+}
+
+.main-feed h1{
+    border-bottom: 2px solid black;
+}
+
+.main-feed p1{
+    font-family: 'Literata', serif;
+    }
+
+.main-feed p2{
+    font-family: 'Bahianita', cursive;
+
+    }
+
+.main-feed p3{
+    font-family: 'DM Serif Display', serif;
+    }
+
+footer {
+    background: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
